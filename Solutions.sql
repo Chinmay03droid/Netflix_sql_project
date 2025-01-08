@@ -1,4 +1,5 @@
-   --Netflix Project--
+   --Netflix Data Analysis using SQL.--
+   --Solutions of 14 business problems.--
 DROP TABLE IF EXISTS Netflix;
 
 CREATE TABLE Netflix
@@ -29,7 +30,7 @@ FROM Netflix;
 
 SELECT * FROM Netflix;
 
--- 15 Business Problems --
+-- 14 Business Problems --
 
 1. Count the number of Movies vs TV Shows.
 
